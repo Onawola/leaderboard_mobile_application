@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="title_leaderboard">LEADERBOARD</string>
+    <string name="hint_project">Project on GITHUB (link)</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_are_you_sure">Are you sure?</string>
+    <string name="text_submission_succesful">Submission Succesful</string>
+    <string name="content_success">success</string>
+    <string name="text_submission_not_succesful">Submission not Succesful</string>
+    <string name="content_failure">failure</string>
+    <string name="text_yes">Yes</string>
+    <string name="content_cancel_dialog">Cancel dialog</string>
+    <string name="content_learning_leader_logo">Learning leader logo</string>
+    <string name="content_skill_iq_logo">Skill Iq logo</string>
+    <string name="text_project_submission">Project Submission</string>
+    <string name="content_logo">logo</string>
+</resources>
